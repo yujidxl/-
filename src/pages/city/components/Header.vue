@@ -31,5 +31,4 @@ export default {
       text-align: center
       font-size: .4rem
       color: #fff
-
 </style>
