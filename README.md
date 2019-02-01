@@ -1,8 +1,8 @@
-# travel
+# Travel
 
 > 仿旅游项目生成的vue的第一个项目
 
-# clone下整个项目后怎么跑起来？
+> clone下整个项目后怎么跑起来？
 
 ``` bash
 # install dependencies
