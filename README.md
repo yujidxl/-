@@ -1,8 +1,8 @@
 # travel
 
-> A Vue.js project
+> 仿旅游项目生成的vue的第一个项目
 
-## Build Setup
+# clone下整个项目后怎么跑起来？
 
 ``` bash
 # install dependencies
